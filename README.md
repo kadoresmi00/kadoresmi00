@@ -5,3 +5,4 @@
 
 #### Me On Social Media;
 - Discord: [@Kado#0001](https://discord.com/users/751952536021368893)
+- İnstagram: [@kadoresmi00](https://instagram.com/kadoresmi00)
