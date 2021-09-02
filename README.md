@@ -13,7 +13,7 @@ const Kado = {
     Username:"Kado",
     Name: "Kadir",
     From: "Turkey",
-    Languages: ["Javascript","Html","Css","Vue.js","Node.js"]
+    Languages: ["Javascript","Html","Css","Vue.js","Node.js"],
     ContactMail: "info@kado.codes"
 };
 ```
