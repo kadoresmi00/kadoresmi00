@@ -2,6 +2,7 @@
 <h3> Hi there! <img src="https://cdn.discordapp.com/emojis/733688934667780137.gif?v=1" width="30"></h3>
 
 <p>Merhaba Adım Kadir Discord Bot Ve Web Site İle Uğraşmaktayım. Web Sitede Kendimi Geliştirmeye Çalışıyorum:)</br></p>
+[![kado](https://user-images.githubusercontent.com/68639045/131915914-33002151-1a06-475d-8204-51e3a4b62dc2.png?raw=true)](https://kado.codes/)
 
 #### Me On Social Media;
 - Discord: [Kado](https://discord.com/users/751952536021368893)
