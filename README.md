@@ -2,8 +2,9 @@
 <img src="https://user-images.githubusercontent.com/68639045/131919816-dec14f4f-bb21-4ee7-9fee-5fed23e52fa6.png" width="27px">
 <br>
 </p>
-
-![banner](https://user-images.githubusercontent.com/68639045/131916233-85c955b3-75da-44f2-a4eb-50f1f334f180.png)[(https://kado.codes)]
+ <p align="center">
+     <a href="https://kado.codes/"><img src="https://user-images.githubusercontent.com/68639045/131916233-85c955b3-75da-44f2-a4eb-50f1f334f180.png"></a>
+</p>
 
 <img align='right' src="https://cdn.discordapp.com/avatars/778540663675158548/1dab8afe32b00fb7836f14a11778625e.webp?size=2048" width="150">
 
