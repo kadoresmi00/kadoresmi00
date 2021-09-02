@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/68639045/131916233-85c955b3-75da-44f2-a4eb-50f1f334f180.png)
 
-<img align='right' src="https://cdn.discordapp.com/avatars/778540663675158548/1dab8afe32b00fb7836f14a11778625e.webp?size=2048" width="150" style="border-radius: 50%">
+<img align='right' src="https://cdn.discordapp.com/avatars/778540663675158548/1dab8afe32b00fb7836f14a11778625e.webp?size=2048" width="150">
 
 ```js
 const Kado = {
