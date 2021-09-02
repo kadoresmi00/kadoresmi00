@@ -14,6 +14,6 @@ const Kado = {
 #### Me On Social Media;
 - Discord: [Kado](https://discord.com/users/751952536021368893)
 - İnstagram: [@kadoresmi00](https://instagram.com/kadoresmi00)
-Discord Profile
+<br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/751952536021368893
                             )](https://discord.com/users/751952536021368893)
