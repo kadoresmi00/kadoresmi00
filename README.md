@@ -15,5 +15,4 @@ const Kado = {
 - Discord: [Kado](https://discord.com/users/751952536021368893)
 - İnstagram: [@kadoresmi00](https://instagram.com/kadoresmi00)
 <br>
-[![Kado](https://lanyard-profile-readme.vercel.app/api/751952536021368893?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/751952536021368893)
-
+[![Kado](https://lanyard-profile-readme.vercel.app/api/751952536021368893)](https://discord.com/users/751952536021368893)
