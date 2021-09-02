@@ -13,4 +13,4 @@ const Kado = {
 ```
 #### Me On Social Media;
 - Discord: [Kado](https://discord.com/users/751952536021368893)
-- İnstagram: [@kadoresmi00](https://instagram.com/kadoresmi00)
+- <a href="https://instagram.com/kadoresmi00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a
