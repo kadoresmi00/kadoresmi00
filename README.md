@@ -17,6 +17,9 @@ const Kado = {
     ContactMail: "info@kado.codes"
 };
 ```
+<p align="center">
+<a href="https://instagram.com/kadoresmi00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 <h1> 💻 Technologies I Use</h1>
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
@@ -25,8 +28,6 @@ const Kado = {
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
 <br>
-<p align="center">
-<a href="https://instagram.com/kadoresmi00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <p align="center">
      <a href="https://kado.codes/"><img src="https://lanyard-profile-readme.vercel.app/api/751952536021368893"></a>
 </p>
