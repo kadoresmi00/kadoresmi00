@@ -19,7 +19,6 @@ const Kado = {
 ```
 <p align="center">
 <a href="https://instagram.com/kadoresmi00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-  //<a href="https://www.npmjs.com/~kadooxd"><img src="https://img.shields.io/badge/kadooxd%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white"></a>
 </a>
 </p>
 <h1> 💻 Technologies I Use</h1>
