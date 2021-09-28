@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 45px;">
-<a><img src="https://user-images.githubusercontent.com/68639045/131919816-dec14f4f-bb21-4ee7-9fee-5fed23e52fa6.png" width="27px">Kado</a>
+<img src="https://user-images.githubusercontent.com/68639045/131919816-dec14f4f-bb21-4ee7-9fee-5fed23e52fa6.png" width="27px">
 <br>
 </p>
  <p align="center">
