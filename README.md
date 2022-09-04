@@ -14,7 +14,7 @@ const Kado = {
     Name: "Kadir",
     From: "Turkey",
     Languages: ["Javascript","Html","Css","Vue.js","Node.js"],
-    ContactMail: "info@kado.codes"
+    ContactMail: "info@kadomedia.org"
 };
 ```
 <p align="center">
