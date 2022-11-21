@@ -20,6 +20,7 @@ const Kado = {
 <p align="center">
 <a href="https://instagram.com/kadoresmi00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+![](https://komarev.com/ghpvc/?username=kadoresmi00&color=green)
 </p>
 <h1> 💻 Technologies I Use</h1>
 <div align="center">
