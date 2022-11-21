@@ -1,7 +1,6 @@
 <p align="center" style="font-size: 45px;">
 <img src="https://user-images.githubusercontent.com/68639045/131919816-dec14f4f-bb21-4ee7-9fee-5fed23e52fa6.png" width="27px">
-<br>![kado]
-
+<br>
 </p>
  <p align="center">
      <a href="https://kadomedia.org/"><img src="https://user-images.githubusercontent.com/68639045/202948121-1eb0f411-dfa4-485b-bbf1-ed8eb6a3bc83.png"></a>
